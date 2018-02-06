@@ -48,7 +48,7 @@ public class Robot extends IterativeRobot {
 			Driver.getGyro();
 			Driver.DootDootDoIt();
 			Driver.voltageReader();
-		}
+		}d
 	}
 
 	// private void execute() {
