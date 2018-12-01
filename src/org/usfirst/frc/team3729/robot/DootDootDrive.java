@@ -58,6 +58,7 @@ public class DootDootDrive {
 
 	public void gyro() {
 		gyro.reset();
+		gyro.calibrate();
 	}
 
 	public void getGyro() {
